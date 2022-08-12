@@ -1,4 +1,4 @@
-# README
+# Credit Card Checksum Validation
 
 Given a credit card number, *credit.py* validates its authenticity by verifying its checksum. Every authentic credit card number must pass a series of mathematical checks that are built into the number itself. Some of these checks are specific to the credit card company and others are agnostic. *credit.py* can verify Amex, Mastercard, and Visa cards.
 
